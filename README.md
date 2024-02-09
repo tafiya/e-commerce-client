@@ -31,5 +31,5 @@ https://e-commerce-client-69395.web.app/
 
 
 
-## 🔗Server site Links
+## 🔗Server site Github Links
 https://github.com/tafiya/e-commerce-server
